@@ -10,3 +10,4 @@ The 3 main objectives of this project are:
 The following documents are provided in this repository:
    1. BADQV-0322A-Lee Jack Shiang-Project.docx: Word document for the project report
    2. HR_Attrition_converted.xlsx: Excel document for the dataset
+xx
