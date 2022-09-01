@@ -8,5 +8,5 @@ The 3 main objectives of this project are:
    3. Provide recommendations to the company with the aim of reducing attrition back to healthy state (<10%)
 
 The following documents are provided in this repository:
-   1. BADQV-0322A-Lee Jack Shiang-Project.docx: Word document for the project reeport
+   1. BADQV-0322A-Lee Jack Shiang-Project.docx: Word document for the project report
    2. HR_Attrition_converted.xlsx: Excel document for the dataset
