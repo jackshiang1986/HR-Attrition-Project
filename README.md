@@ -16,5 +16,6 @@ The next step after data pre-processing is to import the dataset into Power BI S
 
 The following documents are provided in this repository:
    1. BADQV-0322A-Lee Jack Shiang-Project.docx: Word document for the project report
-   2. HR_Attrition_converted.xlsx: Excel document for the dataset
-   3.	chart-chooser-cheat-sheet: Guide for choosing appropriate chart type for data visualization
+   2. BADQV-0322A-Lee Jack Shiang-Project.pdf: PDF document for the Power BI Service report
+   3. HR_Attrition_converted.xlsx: Excel document for the dataset
+   4.	chart-chooser-cheat-sheet: Guide for choosing appropriate chart type for data visualization
