@@ -12,7 +12,7 @@ The following are the objectives of the project:
    3. Provide recommendations to the company with the aim of reducing attrition back to healthy state (<10%)
 
 ## Project Outline
-Before loading the dataset into Power BI Services, the raw dataset shall be checked and pre-processed if required. For this project, the numerical coding for some categorical columns are replaced with proper text descriptions, which can provide better clarity during data visualization stage in Power BI Services.
+Before loading the dataset into Power BI Services, the raw dataset shall be checked and pre-processed if required. For this project, the numerical coding for selected categorical columns are replaced with proper text descriptions, which can provide better clarity during data visualization stage in Power BI Services.
 
 The next step after data pre-processing is to import the dataset into Power BI Services. Several types of visualizations, such as donut chart, bar chart, tree map etc. are utilized where appropriate for finding insights. Finally, based on the insights found from those visualizations, some recommendations can be provided to the company with the aim of reducing the attrition back to healthy state (<10%). Finally, the report done in Power BI Services can be shared with relevant parties.
 
